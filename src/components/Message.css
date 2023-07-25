@@ -27,3 +27,15 @@
   border-radius: 50%;
   margin-right: 7px;
 }
+
+@media (max-width: 900px) {
+  .message img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .message p {
+    margin-left: 7px;
+    margin-top: 4px;
+  }
+}

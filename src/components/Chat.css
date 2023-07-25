@@ -18,3 +18,9 @@
   justify-content: center;
   gap: 5px;
 }
+
+@media (max-width: 900px) {
+  .chat__form {
+    width: 80%;
+  }
+}

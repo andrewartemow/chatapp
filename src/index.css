@@ -19,3 +19,9 @@ button {
   font-family: inherit;
   font-weight: 700;
 }
+
+@media (max-width: 900px) {
+  body {
+    font-size: medium;
+  }
+}
