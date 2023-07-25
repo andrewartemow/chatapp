@@ -8,10 +8,8 @@
   overflow-y: auto;
 }
 
-/* .chat__messages__collection p {
-    text-align: left;
+@media (max-width: 900px) {
+  .messages__collection {
+    width: 95%;
   }
-  
-  .chat__messages__collection p span {
-    font-weight: 700;
-  } */
+}
