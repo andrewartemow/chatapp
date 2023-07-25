@@ -1,0 +1,17 @@
+.messages__collection {
+  width: 70%;
+  height: 400px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-bottom: 10px;
+  overflow-y: auto;
+}
+
+/* .chat__messages__collection p {
+    text-align: left;
+  }
+  
+  .chat__messages__collection p span {
+    font-weight: 700;
+  } */

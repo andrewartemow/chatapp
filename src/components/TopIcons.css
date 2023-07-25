@@ -1,0 +1,45 @@
+.top-icons {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: start;
+  padding: 20px 40px;
+}
+
+.top-icons-group {
+  list-style: none;
+  align-items: center;
+  position: relative;
+}
+
+.top-icons-group a {
+  font-size: 35px;
+  transition: 0.3s all;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  text-decoration: none;
+  color: inherit;
+}
+
+.github {
+  left: 100px;
+}
+
+.github p {
+  font-size: 15px;
+}
+
+.linkedIn {
+  left: 0;
+}
+
+.linkedIn p {
+  font-size: 15px;
+}
+
+.top-icons-group a:hover {
+  margin-left: -10px;
+}

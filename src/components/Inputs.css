@@ -1,0 +1,15 @@
+.input__room {
+  padding: 5px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: 1px solid #222222;
+  outline: none;
+}
+
+.input__chat {
+  width: 100%;
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid #222222;
+  outline: none;
+}
